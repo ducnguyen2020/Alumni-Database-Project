@@ -1,0 +1,11 @@
+----------------------------------------------------------------
+Fri Apr 19 19:41:58 EDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.7.1.1 - (1040133): instance a816c00e-016a-37fa-67aa-000007088318 
+on database directory /Users/ducnguyen/Desktop/AI /CollegeDB-v1/AlumniDB  with class loader sun.misc.Launcher$AppClassLoader@4e25154f 
+Loaded from file:/Users/ducnguyen/Desktop/AI%20/CollegeDB-v1/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_144-b01
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Apr 19 19:41:59 EDT 2019:
+Shutting down instance a816c00e-016a-37fa-67aa-000007088318 on database directory /Users/ducnguyen/Desktop/AI /CollegeDB-v1/AlumniDB with class loader sun.misc.Launcher$AppClassLoader@4e25154f 
